@@ -22,8 +22,8 @@ A fully integrated three-statement financial model and discounted cash flow valu
 
 ## 📁 Project Files
 
-- **`AXP_Model.xlsx`** — The full Excel model (8 tabs, 520+ linked formulas)
-- **`AXP_Investment_Memo.docx`** — One-page institutional-style investment memo
+- **AXP_Model.xlsx** — The full Excel model (8 tabs, 520+ linked formulas)
+- **AXP_Investment_Memo.docx** — One-page institutional-style investment memo
 
 ---
 
@@ -37,7 +37,7 @@ A fully integrated three-statement financial model and discounted cash flow valu
 
 **DCF Valuation**
 - Unlevered free cash flow = NOPAT + D&A − CapEx − ΔNWC
-- WACC built from CAPM cost of equity (10.25%) and after-tax cost of debt (4.07%), weighted by capital structure
+- WACC built from CAPM cost of equity (10.25%) and after-tax cost of debt (4.07%)
 - Terminal value via Gordon Growth method
 - Discount factors applied to mid-year convention
 
@@ -66,7 +66,7 @@ At a 17.6× P/E on FY25E EPS, the stock is fairly valued relative to its growth 
 
 ## ⚠️ Key Risks
 
-- **Consumer credit cycle** — Recession would drive provision expense materially higher; FY24 provision was 8.2% of revenue and could exceed 12% in stress
+- **Consumer credit cycle** — Recession would drive provision expense materially higher
 - **Premium spend slowdown** — Macro pressure on affluent consumers would compress discount revenue
 - **Competitive intensity** — Chase Sapphire Reserve and Capital One Venture X have closed the premium card gap
 - **Regulatory** — CFPB scrutiny of late fees and interchange
@@ -75,8 +75,8 @@ At a 17.6× P/E on FY25E EPS, the stock is fairly valued relative to its growth 
 
 ## 📚 Sources
 
-- AXP 10-K filings FY2020–FY2024 ([SEC EDGAR](https://www.sec.gov/edgar))
-- Damodaran ([NYU Stern](https://pages.stern.nyu.edu/~adamodar/)) for industry beta and equity risk premium
+- AXP 10-K filings FY2020–FY2024 (SEC EDGAR)
+- Damodaran (NYU Stern) for industry beta and equity risk premium
 - U.S. Treasury for risk-free rate
 - Bloomberg consensus estimates
 
