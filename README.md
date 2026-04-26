@@ -1,4 +1,3 @@
-# AmEx-DCF-Valuation
 # American Express (NYSE: AXP) — Three-Statement Model & DCF Valuation
 
 > **Independent equity research project** | Mustafa Iqbal | 2026
